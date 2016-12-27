@@ -17,3 +17,7 @@
 	background-image: url('../images/bedroom2.jpeg');
 }
 
+.huge.message {
+	background-color: transparent;
+	padding-top: 200px;
+}
