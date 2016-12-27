@@ -19,5 +19,23 @@
 
 .huge.message {
 	background-color: transparent;
-	padding-top: 200px;
+	color:white;
+	text-shadow: 1PX 1PX black;
+	padding-top: 150px;
+	box-shadow: none;
+}
+
+.ui.huge.header {
+	color:white;
+}
+
+.blocjumbo {
+	padding-left: 100px;
+}
+ 
+.ui.button {
+	background-color: transparent;
+	border: 2px solid grey;
+	border-radius: 40px;
+	color: white;
 }
