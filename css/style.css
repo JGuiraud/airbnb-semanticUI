@@ -1,17 +1,28 @@
-.ui.menu{
+.ui.menu.fixed.inverted{
 	border: none;
 	box-shadow: none;
+	background-color: transparent;
 }
 
-.ui.menu.item:before {
-	width: 0px;
+.logo {
+	content: url('../images/logo.png');
+	width:2em;
 }
 
-.ui.grid {
-	background-image: url('../images/bedroom.jpeg');
-	height: 500px;
+.ui.landingimage {
+	height: 45em;
 }
 
-.test {
-	background-color: red;
+.landingimage {
+	background-image: url('../images/bedroom2.jpeg');
+}
+
+.huge.message {
+	background-color: transparent;
+	padding-top: 200px;
+
+} 
+.container.photos {
+	margin-top: 100 px;
+	margin-left:30 px;
 }
